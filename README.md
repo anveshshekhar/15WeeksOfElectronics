@@ -1,9 +1,5 @@
 # 15 Weeks Of Electronics
 # Master Engineering Roadmap: Quantum, VLSI, & Embedded
-**Target:** Industry-Ready Portfolio in 15 Weeks  
-**Hardware:** Sipeed Tang Nano 4K, ESP32-WROOM-32  
-**Strategy:** Deep Dive (Sequential) — Quantum $\to$ VLSI $\to$ Embedded
-
 ---
 
 ## 🎯 Phase 1: Quantum Computing (The Algorithm Architect)
@@ -23,7 +19,7 @@
 ## ⚡ Phase 2: VLSI & FPGA (The Silicon Architect)
 **Weeks 6–10** **Focus:** From CMOS Theory to Hardware AI Accelerators.  
 **Hardware:** Sipeed Tang Nano 4K.  
-**Method:** Use *Lushay Labs (9K)* for Verilog syntax, but *Sipeed GitHub* for 4K Pinouts.
+**Method:** Using *Lushay Labs (9K)* for Verilog syntax, but *Sipeed GitHub* for 4K Pinouts.
 
 | Week | Focus Area | Study Stop Point (Definition of Done) | **LinkedIn Project Milestone** |
 | :--- | :--- | :--- | :--- |
