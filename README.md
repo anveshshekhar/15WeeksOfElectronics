@@ -1,4 +1,4 @@
-# 15WeeksOfElectronics
+# 15 Weeks Of Electronics
 # Master Engineering Roadmap: Quantum, VLSI, & Embedded
 **Target:** Industry-Ready Portfolio in 15 Weeks  
 **Hardware:** Sipeed Tang Nano 4K, ESP32-WROOM-32  
